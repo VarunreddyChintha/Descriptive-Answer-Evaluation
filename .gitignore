@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+venv/
+.venv/
+
+.cache/
+.streamlit/
+
+*.log
+
+# Large model files
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Dataset
+data/
+
+# Colab temporary files
+sample_data/
+
+# OS files
+.DS_Store
+Thumbs.db
