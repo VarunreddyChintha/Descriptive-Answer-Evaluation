@@ -38,7 +38,7 @@ An AI-powered web application that automatically evaluates descriptive answers u
 ```
 Descriptive-Answer-Evaluation/
 │
-├── app_v2.py                 # Streamlit application
+├── app.py                    # Streamlit application
 ├── requirements.txt          # Project dependencies
 ├── README.md
 ├── NLP_Project_Colab.ipynb   # Development notebook
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Start the Streamlit application:
 
 ```bash
-streamlit run app_v2.py
+streamlit run app.py
 ```
 
 The application will open in your browser at:
